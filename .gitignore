@@ -44,3 +44,4 @@ Thumbs.db
 
 # Flask and static cache
 .webassets-cache
+venv310/
